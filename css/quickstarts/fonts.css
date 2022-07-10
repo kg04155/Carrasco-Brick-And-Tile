@@ -1,0 +1,15 @@
+@font-face {
+	font-family: secondaryfont;
+	src: url("/css/dafont/Future\ Friends.ttf");
+
+}
+
+@font-face {
+	font-family: primaryfont;
+	src: url("/css/dafont/Champagne\ &\ Limousines.ttf");
+}
+
+@font-face {
+	font-family: tertiaryfont;
+	src: url("/");
+}
